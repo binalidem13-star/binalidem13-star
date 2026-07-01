@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello! I am Dxrk
 
-<!--
-**binalidem13-star/binalidem13-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am a developer passionate about cybersecurity, network analysis, and building useful tools.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+* 🛡️ Focused on network security and ethical analysis.
+* 🐍 Currently working mainly with Python.
+* 📈 Always learning and improving my skills in cybersecurity.
+* 💬 Feel free to join my Discord community for discussions and learning resources.
+
+
+
+## Featured Projects
+Check out my latest tools:
+* [**SnifferV1**](https://github.com/binalidem13-star/SnifferV1) - A multi-functional network utility for Windows.
+
+
+
+## Connect with me
+* 🌐 **Discord:** [Join my server](https://discord.gg/uGw6j6AKgc)
+* 🐙 **GitHub:** [@binalidem13-star](https://github.com/binalidem13-star)
+
+
+
+## ⚡ Quick Stats
+*I am constantly working on new projects. Stay tuned for updates!*
+
+> "Learning is a journey, not a destination."
