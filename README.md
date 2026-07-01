@@ -11,17 +11,9 @@ Welcome to my GitHub profile. I am a developer passionate about cybersecurity, n
 * 💬 Feel free to join my Discord community for discussions and learning resources.
 
 
-
-## Featured Projects
-Check out my latest tools:
-* [**SnifferV1**](https://github.com/binalidem13-star/SnifferV1) - A multi-functional network utility for Windows.
-
-
-
 ## Connect with me
 * 🌐 **Discord:** [Join my server](https://discord.gg/uGw6j6AKgc)
 * 🐙 **GitHub:** [@binalidem13-star](https://github.com/binalidem13-star)
-
 
 
 ## ⚡ Quick Stats
