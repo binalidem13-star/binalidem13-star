@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I am a developer passionate about cybersecurity, n
 
 ## Connect with me
 * 🌐 **Discord:** [Join my server](https://discord.gg/uGw6j6AKgc)
-* 🐙 **GitHub:** [@binalidem13-star](https://github.com/binalidem13-star)
+* 🔫 **guns.lol:** [Dxrk](https://guns.lol/dxrki67)
 
 
 ## ⚡ Quick Stats
